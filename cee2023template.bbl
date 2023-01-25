@@ -19,6 +19,126 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{polonyi2016high}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=99324121e297da714a46c4189760872f}{%
+           family={Polónyi},
+           familyi={P\bibinitperiod},
+           given={Gy},
+           giveni={G\bibinitperiod}}}%
+        {{hash=ee55907c90b355f12cfc65d83875fdd1}{%
+           family={Monoszlai},
+           familyi={M\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+        {{hash=3633a745b41b89e915fe46de1a725723}{%
+           family={Gäumann},
+           familyi={G\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod}}}%
+        {{hash=135b79497bafdc07b00decb618e776ab}{%
+           family={Rohwer},
+           familyi={R\bibinitperiod},
+           given={Egmont\bibnamedelima Johann},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b5f155e33800d2d9e14f3ccfb3baef2f}{%
+           family={Andriukaitis},
+           familyi={A\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f1b52c38574df50a94f86dc8e5b49603}{%
+           family={Balciunas},
+           familyi={B\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=bef54f244f4f7a08927ff58c722a649d}{%
+           family={Pugzlys},
+           familyi={P\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f55db960987987487dbce7bd66f9a579}{%
+           family={Baltuska},
+           familyi={B\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0bed589a01652f6224049d7371457748}{%
+           family={Feurer},
+           familyi={F\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=49f9ef52061d84db0f814e985a59e86c}{%
+           family={Hebling},
+           familyi={H\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Optica Publishing Group}%
+      }
+      \strng{namehash}{e10f8a53b3d82d1c87c90fc0babc6743}
+      \strng{fullhash}{2cea067e80d93d92aed6b98aba2ff935}
+      \strng{bibnamehash}{e10f8a53b3d82d1c87c90fc0babc6743}
+      \strng{authorbibnamehash}{e10f8a53b3d82d1c87c90fc0babc6743}
+      \strng{authornamehash}{e10f8a53b3d82d1c87c90fc0babc6743}
+      \strng{authorfullhash}{2cea067e80d93d92aed6b98aba2ff935}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics express}
+      \field{number}{21}
+      \field{title}{High-energy terahertz pulses from semiconductors pumped beyond the three-photon absorption edge}
+      \field{volume}{24}
+      \field{year}{2016}
+      \field{pages}{23872\bibrangedash 23882}
+      \range{pages}{11}
+    \endentry
+    \entry{polyanskiy2020demonstration}{article}{}
+      \name{author}{4}{}{%
+        {{hash=df8dc627cbd985fcef0ace169382f375}{%
+           family={Polyanskiy},
+           familyi={P\bibinitperiod},
+           given={Mikhail\bibnamedelima N},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=782f6e4e3713baab43bd6fc3d0d9e9f6}{%
+           family={Pogorelsky},
+           familyi={P\bibinitperiod},
+           given={Igor\bibnamedelima V},
+           giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=b20978864dc8d6cb2c0a10e59e5e5d53}{%
+           family={Babzien},
+           familyi={B\bibinitperiod},
+           given={Marcus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=775442861b54ea6d7056484b41939e76}{%
+           family={Palmer},
+           familyi={P\bibinitperiod},
+           given={Mark\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Optica Publishing Group}%
+      }
+      \strng{namehash}{108df8b180ff5f6df469affa0cba0851}
+      \strng{fullhash}{bbc7d038ad52fa30241f7cf9d0a2cd1f}
+      \strng{bibnamehash}{bbc7d038ad52fa30241f7cf9d0a2cd1f}
+      \strng{authorbibnamehash}{bbc7d038ad52fa30241f7cf9d0a2cd1f}
+      \strng{authornamehash}{108df8b180ff5f6df469affa0cba0851}
+      \strng{authorfullhash}{bbc7d038ad52fa30241f7cf9d0a2cd1f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{OSA Continuum}
+      \field{number}{3}
+      \field{title}{Demonstration of a 2 ps, 5 TW peak power, long-wave infrared laser based on chirped-pulse amplification with mixed-isotope CO 2 amplifiers}
+      \field{volume}{3}
+      \field{year}{2020}
+      \field{pages}{459\bibrangedash 472}
+      \range{pages}{14}
+    \endentry
     \entry{ravi2014limitations}{article}{}
       \name{author}{5}{}{%
         {{hash=2c3d375505b0a2ed2b2d3a06b61634c0}{%
@@ -56,8 +176,8 @@
       \strng{authorbibnamehash}{094174d4f198f15de0dc9faf52245d8b}
       \strng{authornamehash}{0c988d664c6bc0f419baafcc34e11501}
       \strng{authorfullhash}{094174d4f198f15de0dc9faf52245d8b}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Optics express}

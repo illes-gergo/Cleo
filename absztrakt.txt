@@ -1,0 +1,3 @@
+Absztrakt (max 35 szó)
+THz generation in GaAs pumped with carbon-dioxide laser was investigated through numerical calculations. Simulations were run on multiple pump durations and pumping intensities. 1% conversion efficiency with few hundred kV/cm field strength is achievable.
+(35 szó)
