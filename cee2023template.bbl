@@ -188,6 +188,77 @@
       \field{pages}{20239\bibrangedash 20251}
       \range{pages}{13}
     \endentry
+    \entry{Tibai:22}{article}{}
+      \name{author}{7}{}{%
+        {{hash=6c92cfe9298440b16ba5c8c286de664a}{%
+           family={Tibai},
+           familyi={T\bibinitperiod},
+           given={Zoltán},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=f08c70f11a4ec0f9d012173e8abbadea}{%
+           family={Krizsán},
+           familyi={K\bibinitperiod},
+           given={Gergő},
+           giveni={G\bibinitperiod}}}%
+        {{hash=2962b84a81e12d57ab00e00d7c5e044f}{%
+           family={Tóth},
+           familyi={T\bibinitperiod},
+           given={György},
+           giveni={G\bibinitperiod}}}%
+        {{hash=75ae02039279cd79aa3db1c17acb1777}{%
+           family={Almási},
+           familyi={A\bibinitperiod},
+           given={Gábor},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a63b94493e5a60249fb94c1ee9d0b10e}{%
+           family={Illés},
+           familyi={I\bibinitperiod},
+           given={Gergő},
+           giveni={G\bibinitperiod}}}%
+        {{hash=704da0f42a90455cb3f6e01b8fd94a6d}{%
+           family={Pálfalvi},
+           familyi={P\bibinitperiod},
+           given={László},
+           giveni={L\bibinitperiod}}}%
+        {{hash=016c05d7994fbf587a2f0dea487b4d05}{%
+           family={Hebling},
+           familyi={H\bibinitperiod},
+           given={János},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Optica Publishing Group}%
+      }
+      \strng{namehash}{f0f5504806c02f1044917ef17d85e3d9}
+      \strng{fullhash}{a21cb361ba933b882d41f3992c8e8dc3}
+      \strng{bibnamehash}{f0f5504806c02f1044917ef17d85e3d9}
+      \strng{authorbibnamehash}{f0f5504806c02f1044917ef17d85e3d9}
+      \strng{authornamehash}{f0f5504806c02f1044917ef17d85e3d9}
+      \strng{authorfullhash}{a21cb361ba933b882d41f3992c8e8dc3}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In recent years several microstructured lithium niobate THz pulse source were suggested for high-energy applications. Two types of those, the reflective and the transmissive nonlinear slab are adopted here for semiconductors. These new sources are scalable both in THz energy and size. Furthermore, they can outperform the already demonstrated contact grating source in diffraction and THz generation efficiency. Compared to the lithium niobate sources, they are more feasible, thanks to the easier manufacturing and the longer pump wavelength. They can produce intense, nearly single-cycle THz pulses at higher frequencies. With 20 mJ pumping at 1.8 {\textmu}m wavelength, 45 {\textmu}J THz energy, and 17 MV/cm focused peak electric field can be expected at 3 THz phase matching frequency from the transmissive nonlinear echelon slab setup consisting of a 4 mm thick structured plan-parallel gallium phosphide crystal.}
+      \field{journaltitle}{Opt. Express}
+      \field{month}{12}
+      \field{number}{25}
+      \field{title}{Scalable microstructured semiconductor THz pulse sources}
+      \field{volume}{30}
+      \field{year}{2022}
+      \field{pages}{45246\bibrangedash 45258}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1364/OE.472021
+      \endverb
+      \verb{urlraw}
+      \verb https://opg.optica.org/oe/abstract.cfm?URI=oe-30-25-45246
+      \endverb
+      \verb{url}
+      \verb https://opg.optica.org/oe/abstract.cfm?URI=oe-30-25-45246
+      \endverb
+      \keyw{Diffraction efficiency; Diffraction gratings; Electric fields; Lithium niobate; Phase matching; Terahertz generation}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
